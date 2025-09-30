@@ -1,1 +1,3 @@
-# Thiago-Dalamaria
+# 👨‍💻 Thiago Dalamaria
+
+'**Desenvolvedor FullStack**'
