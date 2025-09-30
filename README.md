@@ -46,6 +46,11 @@ Ao longo da minha trajetória desenvolvi competências em resolução de problem
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+---
+### 📫 Contato  
+- 💼 [LinkedIn](www.linkedin.com/in/thiago-dias-dalamaria-4176571a2): Thiago Dias Dalamaria
+- ✉️ Email: thiagodiasdalamaria@gmail.com  
+- 🐙 [GitHub](https://github.com/ThiagoDalamaria):
 
     
           
